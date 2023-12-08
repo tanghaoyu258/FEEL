@@ -1,0 +1,738 @@
+{
+    "0": [
+        [
+            "Shot put",
+            1.0
+        ]
+    ],
+    "1": [
+        [
+            "Chopping wood",
+            1.0
+        ]
+    ],
+    "2": [
+        [
+            "Belly dance",
+            1.0
+        ]
+    ],
+    "3": [
+        [
+            "Playing saxophone",
+            1.0
+        ]
+    ],
+    "4": [
+        [
+            "Long jump",
+            0.5
+        ],
+        [
+            "Triple jump",
+            1.0
+        ]
+    ],
+    "5": [
+        [
+            "Doing motocross",
+            1.0
+        ]
+    ],
+    "6": [
+        [
+            "Drinking beer",
+            0.5
+        ],
+        [
+            "Getting a tattoo",
+            0.5
+        ],
+        [
+            "Spinning",
+            1.0
+        ],
+        [
+            "Drinking coffee",
+            0.5
+        ],
+        [
+            "Walking the dog",
+            0.5
+        ],
+        [
+            "Vacuuming floor",
+            0.5
+        ],
+        [
+            "Removing curlers",
+            0.5
+        ]
+    ],
+    "7": [
+        [
+            "Tumbling",
+            1.0
+        ]
+    ],
+    "8": [
+        [
+            "Smoking a cigarette",
+            0.5
+        ],
+        [
+            "Playing piano",
+            0.5
+        ],
+        [
+            "Drinking coffee",
+            1.0
+        ],
+        [
+            "Playing harmonica",
+            0.5
+        ]
+    ],
+    "9": [
+        [
+            "Layup drill in basketball",
+            1.0
+        ]
+    ],
+    "10": [
+        [
+            "Ironing clothes",
+            1.0
+        ]
+    ],
+    "11": [
+        [
+            "Archery",
+            0.5
+        ],
+        [
+            "Chopping wood",
+            0.5
+        ],
+        [
+            "Playing lacrosse",
+            0.5
+        ],
+        [
+            "Walking the dog",
+            0.5
+        ],
+        [
+            "Playing water polo",
+            0.5
+        ],
+        [
+            "Hammer throw",
+            0.5
+        ],
+        [
+            "Using uneven bars",
+            0.5
+        ],
+        [
+            "Paintball",
+            1.0
+        ],
+        [
+            "Pole vault",
+            0.5
+        ],
+        [
+            "Plataform diving",
+            0.5
+        ]
+    ],
+    "12": [
+        [
+            "Mixing drinks",
+            1.0
+        ]
+    ],
+    "13": [
+        [
+            "Playing lacrosse",
+            0.5
+        ],
+        [
+            "Playing field hockey",
+            1.0
+        ]
+    ],
+    "14": [
+        [
+            "Dodgeball",
+            1.0
+        ]
+    ],
+    "15": [
+        [
+            "Fixing bicycle",
+            1.0
+        ]
+    ],
+    "16": [
+        [
+            "Clean and jerk",
+            1.0
+        ],
+        [
+            "Snatch",
+            0.5
+        ]
+    ],
+    "17": [
+        [
+            "Using uneven bars",
+            1.0
+        ]
+    ],
+    "18": [
+        [
+            "Windsurfing",
+            1.0
+        ]
+    ],
+    "19": [
+        [
+            "Springboard diving",
+            1.0
+        ],
+        [
+            "Plataform diving",
+            0.5
+        ]
+    ],
+    "20": [
+        [
+            "Tai chi",
+            1.0
+        ]
+    ],
+    "21": [
+        [
+            "Tango",
+            1.0
+        ]
+    ],
+    "22": [
+        [
+            "Discus throw",
+            1.0
+        ]
+    ],
+    "23": [
+        [
+            "Using the balance beam",
+            1.0
+        ]
+    ],
+    "24": [
+        [
+            "Horseback riding",
+            1.0
+        ],
+        [
+            "Playing polo",
+            0.5
+        ]
+    ],
+    "25": [
+        [
+            "Drinking coffee",
+            1.0
+        ]
+    ],
+    "26": [
+        [
+            "Playing bagpipes",
+            1.0
+        ]
+    ],
+    "27": [
+        [
+            "Washing face",
+            1.0
+        ]
+    ],
+    "28": [
+        [
+            "Doing kickboxing",
+            1.0
+        ]
+    ],
+    "29": [
+        [
+            "Playing water polo",
+            1.0
+        ]
+    ],
+    "30": [
+        [
+            "Brushing teeth",
+            1.0
+        ]
+    ],
+    "31": [
+        [
+            "Preparing pasta",
+            0.5
+        ],
+        [
+            "Preparing salad",
+            1.0
+        ]
+    ],
+    "32": [
+        [
+            "Getting a tattoo",
+            0.5
+        ],
+        [
+            "Smoking hookah",
+            0.5
+        ],
+        [
+            "Getting a haircut",
+            0.5
+        ],
+        [
+            "Putting on makeup",
+            0.5
+        ],
+        [
+            "Shaving",
+            0.5
+        ],
+        [
+            "Walking the dog",
+            1.0
+        ],
+        [
+            "Cleaning shoes",
+            0.5
+        ],
+        [
+            "Wrapping presents",
+            1.0
+        ],
+        [
+            "Ironing clothes",
+            0.5
+        ]
+    ],
+    "33": [
+        [
+            "Washing hands",
+            1.0
+        ]
+    ],
+    "34": [
+        [
+            "Smoking a cigarette",
+            1.0
+        ]
+    ],
+    "35": [
+        [
+            "Cumbia",
+            1.0
+        ]
+    ],
+    "36": [
+        [
+            "Grooming horse",
+            1.0
+        ]
+    ],
+    "37": [
+        [
+            "Getting a tattoo",
+            0.5
+        ],
+        [
+            "Getting a piercing",
+            1.0
+        ]
+    ],
+    "38": [
+        [
+            "Playing squash",
+            1.0
+        ]
+    ],
+    "39": [
+        [
+            "Hopscotch",
+            1.0
+        ]
+    ],
+    "40": [
+        [
+            "Playing accordion",
+            1.0
+        ]
+    ],
+    "41": [
+        [
+            "Using the pommel horse",
+            1.0
+        ]
+    ],
+    "42": [
+        [
+            "Shoveling snow",
+            1.0
+        ]
+    ],
+    "43": [
+        [
+            "Mowing the lawn",
+            1.0
+        ]
+    ],
+    "44": [
+        [
+            "Cleaning windows",
+            1.0
+        ]
+    ],
+    "45": [
+        [
+            "Playing violin",
+            1.0
+        ]
+    ],
+    "46": [
+        [
+            "Using parallel bars",
+            1.0
+        ]
+    ],
+    "47": [
+        [
+            "Cricket",
+            1.0
+        ]
+    ],
+    "48": [
+        [
+            "Cleaning shoes",
+            1.0
+        ],
+        [
+            "Polishing shoes",
+            0.5
+        ]
+    ],
+    "49": [
+        [
+            "Zumba",
+            1.0
+        ]
+    ],
+    "50": [
+        [
+            "Breakdancing",
+            1.0
+        ]
+    ],
+    "51": [
+        [
+            "Shaving legs",
+            1.0
+        ]
+    ],
+    "52": [
+        [
+            "Rock climbing",
+            1.0
+        ]
+    ],
+    "53": [
+        [
+            "Playing badminton",
+            1.0
+        ]
+    ],
+    "54": [
+        [
+            "High jump",
+            1.0
+        ]
+    ],
+    "55": [
+        [
+            "Skateboarding",
+            1.0
+        ]
+    ],
+    "56": [
+        [
+            "Javelin throw",
+            1.0
+        ]
+    ],
+    "57": [
+        [
+            "Shaving",
+            1.0
+        ]
+    ],
+    "58": [
+        [
+            "Ping-pong",
+            1.0
+        ]
+    ],
+    "59": [
+        [
+            "Kayaking",
+            1.0
+        ]
+    ],
+    "60": [
+        [
+            "Hammer throw",
+            1.0
+        ]
+    ],
+    "61": [
+        [
+            "Doing karate",
+            1.0
+        ]
+    ],
+    "62": [
+        [
+            "Spinning",
+            1.0
+        ]
+    ],
+    "63": [
+        [
+            "Washing dishes",
+            1.0
+        ]
+    ],
+    "64": [
+        [
+            "Paintball",
+            1.0
+        ]
+    ],
+    "65": [
+        [
+            "Playing volleyball",
+            1.0
+        ]
+    ],
+    "66": [
+        [
+            "Pole vault",
+            1.0
+        ]
+    ],
+    "67": [
+        [
+            "Playing kickball",
+            1.0
+        ]
+    ],
+    "68": [
+        [
+            "Vacuuming floor",
+            1.0
+        ]
+    ],
+    "69": [
+        [
+            "Playing racquetball",
+            1.0
+        ]
+    ],
+    "70": [
+        [
+            "Walking the dog",
+            1.0
+        ]
+    ],
+    "71": [
+        [
+            "Tennis serve with ball bouncing",
+            1.0
+        ]
+    ],
+    "72": [
+        [
+            "Playing harmonica",
+            1.0
+        ]
+    ],
+    "73": [
+        [
+            "Ballet",
+            1.0
+        ]
+    ],
+    "74": [
+        [
+            "Archery",
+            1.0
+        ]
+    ],
+    "75": [
+        [
+            "Smoking hookah",
+            1.0
+        ]
+    ],
+    "76": [
+        [
+            "Getting a haircut",
+            1.0
+        ]
+    ],
+    "77": [
+        [
+            "Brushing hair",
+            1.0
+        ]
+    ],
+    "78": [
+        [
+            "Doing nails",
+            1.0
+        ]
+    ],
+    "79": [
+        [
+            "Making a sandwich",
+            1.0
+        ]
+    ],
+    "80": [
+        [
+            "Playing flauta",
+            1.0
+        ]
+    ],
+    "81": [
+        [
+            "Bathing dog",
+            1.0
+        ]
+    ],
+    "82": [
+        [
+            "Cheerleading",
+            1.0
+        ]
+    ],
+    "83": [
+        [
+            "Doing step aerobics",
+            1.0
+        ]
+    ],
+    "84": [
+        [
+            "Starting a campfire",
+            1.0
+        ]
+    ],
+    "85": [
+        [
+            "Putting on makeup",
+            1.0
+        ]
+    ],
+    "86": [
+        [
+            "Hand washing clothes",
+            1.0
+        ]
+    ],
+    "87": [
+        [
+            "Wrapping presents",
+            1.0
+        ]
+    ],
+    "88": [
+        [
+            "Playing guitarra",
+            1.0
+        ]
+    ],
+    "89": [
+        [
+            "Ironing clothes",
+            1.0
+        ]
+    ],
+    "90": [
+        [
+            "Playing piano",
+            1.0
+        ]
+    ],
+    "91": [
+        [
+            "Bungee jumping",
+            1.0
+        ]
+    ],
+    "92": [
+        [
+            "Sailing",
+            1.0
+        ]
+    ],
+    "93": [
+        [
+            "Drinking beer",
+            1.0
+        ]
+    ],
+    "94": [
+        [
+            "Removing curlers",
+            1.0
+        ]
+    ],
+    "95": [
+        [
+            "Playing flauta",
+            1.0
+        ]
+    ],
+    "96": [
+        [
+            "Painting",
+            1.0
+        ]
+    ],
+    "97": [
+        [
+            "Polishing forniture",
+            1.0
+        ]
+    ],
+    "98": [
+        [
+            "Polishing shoes",
+            1.0
+        ]
+    ],
+    "99": [
+        [
+            "Hopscotch",
+            1.0
+        ]
+    ]
+}
