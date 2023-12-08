@@ -1,0 +1,206 @@
+{
+    "0": [
+        [
+            "Diving",
+            1.0
+        ],
+        [
+            "CliffDiving",
+            0.5
+        ]
+    ],
+    "1": [
+        [
+            "CricketBowling",
+            1.0
+        ],
+        [
+            "CricketShot",
+            1.0
+        ]
+    ],
+    "2": [
+        [
+            "PoleVault",
+            0.5
+        ],
+        [
+            "JavelinThrow",
+            1.0
+        ],
+        [
+            "LongJump",
+            0.5
+        ]
+    ],
+    "3": [
+        [
+            "ThrowDiscus",
+            1.0
+        ],
+        [
+            "Billiards",
+            1.0
+        ],
+        [
+            "Shotput",
+            1.0
+        ]
+    ],
+    "4": [
+        [
+            "ThrowDiscus",
+            0.5
+        ],
+        [
+            "HammerThrow",
+            1.0
+        ]
+    ],
+    "5": [
+        [
+            "GolfSwing",
+            1.0
+        ]
+    ],
+    "6": [
+        [
+            "PoleVault",
+            0.5
+        ],
+        [
+            "HighJump",
+            1.0
+        ],
+        [
+            "LongJump",
+            0.5
+        ]
+    ],
+    "7": [
+        [
+            "CleanAndJerk",
+            1.0
+        ]
+    ],
+    "8": [
+        [
+            "Diving",
+            1.0
+        ]
+    ],
+    "9": [
+        [
+            "SoccerPenalty",
+            1.0
+        ]
+    ],
+    "10": [
+        [
+            "Billiards",
+            1.0
+        ]
+    ],
+    "11": [
+        [
+            "VolleyballSpiking",
+            1.0
+        ]
+    ],
+    "12": [
+        [
+            "TennisSwing",
+            1.0
+        ]
+    ],
+    "13": [
+        [
+            "ThrowDiscus",
+            0.5
+        ],
+        [
+            "JavelinThrow",
+            0.5
+        ],
+        [
+            "Shotput",
+            1.0
+        ]
+    ],
+    "14": [
+        [
+            "Diving",
+            1.0
+        ],
+        [
+            "CliffDiving",
+            1.0
+        ]
+    ],
+    "15": [
+        [
+            "PoleVault",
+            0.5
+        ],
+        [
+            "HighJump",
+            1.0
+        ],
+        [
+            "LongJump",
+            0.5
+        ]
+    ],
+    "16": [
+        [
+            "BasketballDunk",
+            1.0
+        ]
+    ],
+    "17": [
+        [
+            "FrisbeeCatch",
+            0.5
+        ],
+        [
+            "GolfSwing",
+            0.5
+        ],
+        [
+            "TennisSwing",
+            1.0
+        ]
+    ],
+    "18": [
+        [
+            "Diving",
+            0.5
+        ],
+        [
+            "PoleVault",
+            0.5
+        ],
+        [
+            "VolleyballSpiking",
+            0.5
+        ],
+        [
+            "BaseballPitch",
+            1.0
+        ]
+    ],
+    "19": [
+        [
+            "CricketBowling",
+            1.0
+        ],
+        [
+            "CricketShot",
+            1.0
+        ],
+        [
+            "BaseballPitch",
+            1.0
+        ]
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "0": [
+        [
+            "Diving",
+            1.0
+        ],
+        [
+            "CliffDiving",
+            1.0
+        ]
+    ],
+    "1": [
+        [
+            "Billiards",
+            1.0
+        ]
+    ],
+    "2": [
+        [
+            "HighJump",
+            0.5
+        ],
+        [
+            "LongJump",
+            1.0
+        ]
+    ],
+    "3": [
+        [
+            "FrisbeeCatch",
+            1.0
+        ],
+        [
+            "SoccerPenalty",
+            0.5
+        ]
+    ],
+    "4": [
+        [
+            "SoccerPenalty",
+            0.5
+        ],
+        [
+            "Shotput",
+            1.0
+        ]
+    ],
+    "5": [
+        [
+            "Diving",
+            1.0
+        ],
+        [
+            "VolleyballSpiking",
+            0.5
+        ]
+    ],
+    "6": [
+        [
+            "BasketballDunk",
+            1.0
+        ]
+    ],
+    "7": [
+        [
+            "CleanAndJerk",
+            1.0
+        ]
+    ],
+    "8": [
+        [
+            "CricketBowling",
+            1.0
+        ],
+        [
+            "CricketShot",
+            1.0
+        ],
+        [
+            "BaseballPitch",
+            0.5
+        ]
+    ],
+    "9": [
+        [
+            "TennisSwing",
+            1.0
+        ]
+    ],
+    "10": [
+        [
+            "JavelinThrow",
+            1.0
+        ]
+    ],
+    "11": [
+        [
+            "ThrowDiscus",
+            1.0
+        ]
+    ],
+    "12": [
+        [
+            "HighJump",
+            1.0
+        ]
+    ],
+    "13": [
+        [
+            "GolfSwing",
+            1.0
+        ]
+    ],
+    "14": [
+        [
+            "HammerThrow",
+            1.0
+        ]
+    ],
+    "15": [
+        [
+            "PoleVault",
+            1.0
+        ],
+        [
+            "HighJump",
+            0.5
+        ]
+    ],
+    "16": [
+        [
+            "Diving",
+            1.0
+        ]
+    ],
+    "17": [
+        [
+            "VolleyballSpiking",
+            1.0
+        ]
+    ],
+    "18": [
+        [
+            "ThrowDiscus",
+            1.0
+        ],
+        [
+            "JavelinThrow",
+            1.0
+        ],
+        [
+            "HammerThrow",
+            0.5
+        ]
+    ],
+    "19": [
+        [
+            "CricketBowling",
+            1.0
+        ],
+        [
+            "CricketShot",
+            1.0
+        ]
+    ]
+}
